@@ -16,3 +16,9 @@ Each of the three rotors will display a number or letter (the rotors in the imag
 In the first slot, there are 555 rotors to pick from, in the second there are 444 rotors to pick from, and in the third slot there are 333 rotors to pick from. So there are 5×4×3=605 \times 4 \times 3 = 605×4×3=60 ways to configure the five rotors.
 
 There are 262626 starting positions for each rotor, so there are 26×26×26=17,57626 \times 26 \times 26 = 17,576 26×26×26=17,576
+
+
+first run the config_enigma.py for enimga configuration setting then run the main progmram enigma.py
+
+
+hope u enjoy IT ;)
