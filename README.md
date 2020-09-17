@@ -5,6 +5,14 @@ An **Enigma machine** is a famous encryption machine used by the Germans during 
 
 ![](https://github.com/amiritoo/EnigmaMachine/blob/master/image/iVvdZithen-800px-enigma-plugboard.jpg)
 
+**Encryption**
+
+Enigma machines use a form of substitution encryption.
+
+Substitution encryption is a straightforward way of encoding messages, but these codes are fairly easy to break. A simple example of a substitution encryption scheme is a Caesar cipher. A Caesar cipher shifts each letter of the alphabet some number of places. A Caesar cipher with a shift of 111 would encode an A as a B, an M as an N, and a Z as an A, and so on. 
+
+
+
 **How an Enigma Machine Works**
 
 An Enigma machine is made up of several parts including a keyboard, a lamp board, rotors, and internal electronic circuitry. Some machines, such as the ones used by the military, have additional features such as a plugboard.
